@@ -80,7 +80,6 @@ async function initialize(){
     query: 'Type the url of your manual:',
     handle: 'url'
   });
-  console.log(url);
   if(!url.url)throw new Error("Please input a url.") // Checing if url was provided.
   
   if(type.type == "Educahoc"){

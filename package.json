@@ -1,0 +1,17 @@
+{
+  "name": "educahocreadertopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "puppeteer": "^19.4.1",
+    "qoa": "^0.2.0"
+  }
+}
